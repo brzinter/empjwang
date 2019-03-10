@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="form" table="x_snc_rental_mgnt_transaction" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Check</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <sequence>0</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:44:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a601b164f803300fc0877618110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:44:10</sys_updated_on>
+            <value>Check</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Card</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <sequence>1</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:44:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e601b164f803300fc0877618110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:44:10</sys_updated_on>
+            <value>Credit Card</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quick Pay</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <sequence>2</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:44:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e601b164f803300fc0877618110c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:44:10</sys_updated_on>
+            <value>Quick Pay</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>form</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paypal</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <sequence>3</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:44:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca601b164f803300fc0877618110c74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:44:10</sys_updated_on>
+            <value>Paypal</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>form</element>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:44:10</sys_created_on>
+            <sys_id>06601b164f803300fc0877618110c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>form</sys_name>
+            <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rental_mgnt_transaction_form</sys_update_name>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:44:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

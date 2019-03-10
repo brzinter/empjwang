@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_rental_mgnt_transaction">x_snc_rental_mgnt_transaction</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TXN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-10 05:15:46</sys_created_on>
+        <sys_id>f5e943d64f403300fc0877618110c74d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TXN</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sys_number_f5e943d64f403300fc0877618110c74d</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-10 05:15:46</sys_updated_on>
+    </sys_number>
+</record_update>

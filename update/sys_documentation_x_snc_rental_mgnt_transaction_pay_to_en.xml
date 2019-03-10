@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pay_to" label="Pay to" language="en" table="x_snc_rental_mgnt_transaction">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pay_to</element>
+            <help/>
+            <hint/>
+            <label>Pay to</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_transaction</name>
+            <plural>Pay to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 05:39:08</sys_created_on>
+            <sys_id>004f4fd24f803300fc0877618110c7d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pay to</sys_name>
+            <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_rental_mgnt_transaction_pay_to_en</sys_update_name>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 05:39:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

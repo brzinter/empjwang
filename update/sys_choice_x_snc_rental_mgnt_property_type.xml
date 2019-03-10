@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_snc_rental_mgnt_property" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apartment unit</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_property</name>
+            <sequence>0</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 04:55:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f555071e130c330015f750f82244b055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 04:55:49</sys_updated_on>
+            <value>Apartment unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Condo</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_property</name>
+            <sequence>1</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 04:55:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd55871e130c330015f750f82244b0f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 04:55:50</sys_updated_on>
+            <value>Condo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Single family</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_property</name>
+            <sequence>2</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 04:55:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd55871e130c330015f750f82244b0f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 04:55:50</sys_updated_on>
+            <value>Single family</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_snc_rental_mgnt_property</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-10 04:55:49</sys_created_on>
+            <sys_id>7955071e130c330015f750f82244b056</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rental_mgnt_property_type</sys_update_name>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-10 04:55:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Transaction" max_length="40" name="x_snc_rental_mgnt_transaction" type="collection">
+        <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Form" mandatory="true" max_length="40" name="form" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Check" sequence="0" value="Check"/>
+                <element inactive_on_update="false" label="Credit Card" sequence="1" value="Credit Card"/>
+                <element inactive_on_update="false" label="Quick Pay" sequence="2" value="Quick Pay"/>
+                <element inactive_on_update="false" label="Paypal" sequence="3" value="Paypal"/>
+            </choice>
+        </element>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pay to" mandatory="true" max_length="40" name="pay_to" type="string"/>
+        <element label="Property" mandatory="true" max_length="32" name="property" reference="x_snc_rental_mgnt_property" type="reference"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rent" sequence="0" value="-1"/>
+                <element inactive_on_update="false" label="HOA Fee" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Insurance" sequence="2" value="4"/>
+                <element inactive_on_update="false" label="Mortgage" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="Property Tax" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Down Payment" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Inspection" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="Fix &amp; Upgrade" sequence="7" value="2"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="property"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

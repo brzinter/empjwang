@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Property" max_length="40" name="x_snc_rental_mgnt_property" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="omit_sys_original=true" label="Balance" max_length="20" name="balance" type="currency"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#9;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;var full_name = current.address + &quot;, &quot; + current.city + &quot;, &quot; + current.state + &quot;, &quot; + current.zip_code;&#13;&#10;&#9;return full_name;  // return the calculated value&#13;&#10;&#9;&#13;&#10;})(current);" display="true" label="Name" max_length="80" name="name" read_only="true" type="string" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1000" name="notes" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CA" sequence="0" value="CA"/>
+                <element inactive_on_update="false" label="GA" sequence="1" value="GA"/>
+                <element inactive_on_update="false" label="MI" sequence="2" value="MI"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Apartment unit" sequence="0" value="Apartment unit"/>
+                <element inactive_on_update="false" label="Condo" sequence="1" value="Condo"/>
+                <element inactive_on_update="false" label="Single family" sequence="2" value="Single family"/>
+            </choice>
+        </element>
+        <element label="Zip code" max_length="40" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
