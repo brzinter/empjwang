@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Fun with Fitbit labs" max_length="40" name="x_fitbit_fun_with_fitbit_labs" type="collection">
-        <element label="Code sample" max_length="8000" name="code_sample" type="script"/>
-        <element label="Details" max_length="8000" name="details" type="html"/>
-        <element label="Name" max_length="100" name="name" type="string"/>
-    </element>
-</database>
