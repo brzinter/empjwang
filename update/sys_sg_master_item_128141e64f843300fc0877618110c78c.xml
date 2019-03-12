@@ -2,21 +2,21 @@
     <sys_sg_master_item action="INSERT_OR_UPDATE">
         <condition/>
         <condition_order/>
-        <item_view display_value="Transaction item view">7437979a4f803300fc0877618110c704</item_view>
+        <item_view display_value="Properties item view">de8141e64f843300fc0877618110c788</item_view>
         <name>Master Item</name>
-        <screen display_value="Transactions">4937579a4f803300fc0877618110c734</screen>
+        <screen display_value="Properties">1e814da64f843300fc0877618110c748</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
-        <sys_created_on>2019-03-10 06:13:52</sys_created_on>
-        <sys_id>8937979a4f803300fc0877618110c707</sys_id>
+        <sys_created_on>2019-03-10 13:58:26</sys_created_on>
+        <sys_id>128141e64f843300fc0877618110c78c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Master Item</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
-        <sys_update_name>sys_sg_master_item_8937979a4f803300fc0877618110c707</sys_update_name>
+        <sys_update_name>sys_sg_master_item_128141e64f843300fc0877618110c78c</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-10 06:13:52</sys_updated_on>
-        <table>x_snc_rental_mgnt_transaction</table>
+        <sys_updated_on>2019-03-10 13:58:26</sys_updated_on>
+        <table>x_snc_rental_mgnt_property</table>
     </sys_sg_master_item>
 </record_update>
