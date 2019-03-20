@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="My properties">de9f3c664f843300fc0877618110c7ca</data_item>
+        <dependency_fields>type,balance,tenants.name,location</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"type","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"balance","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Text":"","CellId":"tenants.name"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${location}"},{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":6},"studio_template_field_id":"E5","Scaling":"Fill"},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"location"}]},{"Type":"ViewGroup","Margin":{"Top":7},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Margin":{"Right":8}},{"Type":"Text","Margin":{},"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]}],"studio_card_id":"7a51ef8123012300a8ed7f4fc7bf6539"}</item_view_json>
+        <name>Locate properties detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-16 22:04:07</sys_created_on>
+        <sys_id>db3aa5a04f507700fc0877618110c7d0</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Locate properties detail item view</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sys_sg_item_view_db3aa5a04f507700fc0877618110c7d0</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-20 03:23:17</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

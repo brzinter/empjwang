@@ -5,27 +5,27 @@
         <add_work_note_button>true</add_work_note_button>
         <application_roles>x_snc_rental_mgnt.user</application_roles>
         <available_offline>false</available_offline>
-        <data_item display_value="My transactions">e2a0c1a64f843300fc0877618110c7b8</data_item>
+        <data_item display_value="My properties">de9f3c664f843300fc0877618110c7ca</data_item>
         <description/>
         <fetch_type>background</fetch_type>
         <hidden>false</hidden>
-        <icon display_value="file-alt">1901c9a64f843300fc0877618110c747</icon>
+        <icon display_value="file-alt">732d65294f54f700fc0877618110c7cc</icon>
         <name>Activity Stream</name>
         <order>20</order>
-        <parent>8937979a4f803300fc0877618110c707</parent>
+        <parent>128141e64f843300fc0877618110c78c</parent>
         <parent_table>sys_sg_master_item</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
-        <sys_created_on>2019-03-10 06:13:52</sys_created_on>
-        <sys_id>cd37d79a4f803300fc0877618110c702</sys_id>
+        <sys_created_on>2019-03-17 04:52:31</sys_created_on>
+        <sys_id>b9b783284f147700fc0877618110c756</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Activity Stream</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
-        <sys_update_name>sys_sg_activity_stream_screen_cd37d79a4f803300fc0877618110c702</sys_update_name>
+        <sys_update_name>sys_sg_activity_stream_screen_b9b783284f147700fc0877618110c756</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-10 13:56:12</sys_updated_on>
+        <sys_updated_on>2019-03-20 00:50:57</sys_updated_on>
     </sys_sg_activity_stream_screen>
 </record_update>

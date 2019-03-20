@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Transaction" max_length="40" name="x_snc_rental_mgnt_transaction" type="collection">
+    <element audit="true" label="Transaction" max_length="40" name="x_snc_rental_mgnt_transaction" type="collection">
         <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
+        <element label="Calculated" max_length="40" name="calculated" read_only="true" type="boolean"/>
         <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Form" mandatory="true" max_length="40" name="form" type="string">
             <choice>
@@ -10,7 +11,8 @@
                 <element inactive_on_update="false" label="Paypal" sequence="3" value="Paypal"/>
             </choice>
         </element>
-        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="Income or spend" max_length="40" name="income_or_spend" read_only="true" type="boolean"/>
+        <element label="Notes" mandatory="true" max_length="1000" name="notes" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Pay to" mandatory="true" max_length="40" name="pay_to" type="string"/>
         <element label="Property" mandatory="true" max_length="32" name="property" reference="x_snc_rental_mgnt_property" type="reference"/>
@@ -22,7 +24,7 @@
                 <element inactive_on_update="false" label="Insurance" sequence="2" value="4"/>
                 <element inactive_on_update="false" label="Mortgage" sequence="3" value="1"/>
                 <element inactive_on_update="false" label="Property Tax" sequence="4" value="5"/>
-                <element inactive_on_update="false" label="Down Payment" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Cash Payment" sequence="5" value="6"/>
                 <element inactive_on_update="false" label="Inspection" sequence="6" value="7"/>
                 <element inactive_on_update="false" label="Fix &amp; Upgrade" sequence="7" value="2"/>
             </choice>

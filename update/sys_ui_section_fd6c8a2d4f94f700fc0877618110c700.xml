@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fd6c8a2d4f94f700fc0877618110c700" sys_domain="global" table="x_snc_rental_mgnt_renter" version="3" view="sys_ref_list">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>b96c8a2d4f94f700fc0877618110c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>3d6c8a2d4f94f700fc0877618110c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>2</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>bd6c8a2d4f94f700fc0877618110c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>3</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>316c8a2d4f94f700fc0877618110c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_password</element>
+            <position>4</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>b16c8a2d4f94f700fc0877618110c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>5</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_id>356c8a2d4f94f700fc0877618110c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_renter" sys_domain="global" view="a78031521300330015f750f82244b08e">fd6c8a2d4f94f700fc0877618110c700</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_rental_mgnt_renter</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:07:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd6c8a2d4f94f700fc0877618110c700</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_rental_mgnt_renter</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+            <sys_update_name>sys_ui_section_fd6c8a2d4f94f700fc0877618110c700</sys_update_name>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:07:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Reference List" name="sys_ref_list">a78031521300330015f750f82244b08e</view>
+            <view_name>sys_ref_list</view_name>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

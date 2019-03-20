@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-20 02:39:38</sys_created_on>
+        <sys_id>d816cee54f94f700fc0877618110c755</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rental_mgnt_renter.x_snc_rental_mgnt.user</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_security_acl display_value="x_snc_rental_mgnt_renter">1416cee54f94f700fc0877618110c752</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d816cee54f94f700fc0877618110c755</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-20 02:39:38</sys_updated_on>
+        <sys_user_role display_value="x_snc_rental_mgnt.user" name="x_snc_rental_mgnt.user">0a8b2ad64f403300fc0877618110c701</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

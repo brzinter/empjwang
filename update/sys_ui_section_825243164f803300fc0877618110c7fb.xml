@@ -4,169 +4,225 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>e131d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>417b022d4f94f700fc0877618110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>name</element>
             <position>1</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6531d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c17b022d4f94f700fc0877618110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
-            <position>2</position>
-            <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>e531d3564f803300fc0877618110c78b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
-            <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6931d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>457b022d4f94f700fc0877618110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>balance</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>e931d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c57b022d4f94f700fc0877618110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>4</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>497b022d4f94f700fc0877618110c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_date</element>
+            <position>5</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c97b022d4f94f700fc0877618110c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owners</element>
+            <position>6</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>4d7b022d4f94f700fc0877618110c7e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6d31d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>cd7b022d4f94f700fc0877618110c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>address</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>ed31d3564f803300fc0877618110c78b</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>417b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>city</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6131d3564f803300fc0877618110c78c</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c17b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>e131d3564f803300fc0877618110c78c</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>457b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>zip_code</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6531d3564f803300fc0877618110c78c</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c57b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tenants</element>
+            <position>12</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>497b022d4f94f700fc0877618110c7e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>10</position>
+            <position>13</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>e531d3564f803300fc0877618110c78c</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>c97b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>notes</element>
-            <position>11</position>
+            <position>14</position>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-10 05:47:42</sys_created_on>
-            <sys_id>6931d3564f803300fc0877618110c78c</sys_id>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>4d7b022d4f94f700fc0877618110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:47:42</sys_updated_on>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>15</position>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 03:03:10</sys_created_on>
+            <sys_id>cd7b022d4f94f700fc0877618110c7e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_rental_mgnt_property" sys_domain="global" view="Default view">825243164f803300fc0877618110c7fb</sys_ui_section>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 03:03:10</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

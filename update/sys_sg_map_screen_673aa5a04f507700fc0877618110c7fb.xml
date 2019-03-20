@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="INSERT_OR_UPDATE">
+        <application_roles>x_snc_rental_mgnt.user</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="My properties">de9f3c664f843300fc0877618110c7ca</data_item>
+        <data_item_table>x_snc_rental_mgnt_property</data_item_table>
+        <description>Map for properties</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">873aa5a04f507700fc0877618110c7cd</icon>
+        <info>tenants</info>
+        <location>location</location>
+        <name>Properties Map</name>
+        <order>30</order>
+        <parent>a526d71a4f803300fc0877618110c78b</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <phone/>
+        <pin_color>#FF0000</pin_color>
+        <pin_color_type>default</pin_color_type>
+        <roles_override/>
+        <sub_title>name</sub_title>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-16 22:04:08</sys_created_on>
+        <sys_id>673aa5a04f507700fc0877618110c7fb</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Properties Map</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sys_sg_map_screen_673aa5a04f507700fc0877618110c7fb</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-20 03:19:40</sys_updated_on>
+        <tag>balance</tag>
+        <tag_background_color>#7d8a8c</tag_background_color>
+        <tag_font_color>#ffffff</tag_font_color>
+        <tag_style/>
+        <title>type</title>
+    </sys_sg_map_screen>
+</record_update>

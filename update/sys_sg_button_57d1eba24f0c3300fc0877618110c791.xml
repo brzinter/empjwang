@@ -6,8 +6,8 @@
         <condition/>
         <condition_script/>
         <condition_type>script</condition_type>
-        <confirm_label>Confirm</confirm_label>
-        <confirmation_message>Transaction created</confirmation_message>
+        <confirm_label>Proceed</confirm_label>
+        <confirmation_message>Create transaciton</confirmation_message>
         <context>global</context>
         <description>To create new transaction</description>
         <destination_screen/>
@@ -34,17 +34,17 @@
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-11 01:42:00</sys_created_on>
         <sys_id>57d1eba24f0c3300fc0877618110c791</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>New Transaction</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sys_sg_button_57d1eba24f0c3300fc0877618110c791</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-11 01:42:00</sys_updated_on>
+        <sys_updated_on>2019-03-17 03:41:45</sys_updated_on>
         <table/>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="New Transaction">a922afa24f0c3300fc0877618110c792</write_back_action_item>
+        <write_back_action_item display_value="Transaction - Create New">a922afa24f0c3300fc0877618110c792</write_back_action_item>
     </sys_sg_button>
 </record_update>

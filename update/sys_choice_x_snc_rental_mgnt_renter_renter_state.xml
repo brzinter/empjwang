@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="renter_state" table="x_snc_rental_mgnt_renter" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contacted</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>1</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cb782694f94f700fc0877618110c70a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:23</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Showed</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>2</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:47:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcb706694f94f700fc0877618110c77e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:27</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Applied</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>3</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:47:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afe706694f94f700fc0877618110c767</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:30</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>4</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:48:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aef706694f94f700fc0877618110c76a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:34</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rented</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>5</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:48:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e50806694f94f700fc0877618110c78e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:37</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renter_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sequence>6</sequence>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:49:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e918c6694f94f700fc0877618110c747</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:49:41</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>renter_state</element>
+            <name>x_snc_rental_mgnt_renter</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jason.wang</sys_created_by>
+            <sys_created_on>2019-03-20 02:46:44</sys_created_on>
+            <sys_id>a4b782694f94f700fc0877618110c70b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>renter_state</sys_name>
+            <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+            <sys_update_name>sys_choice_x_snc_rental_mgnt_renter_renter_state</sys_update_name>
+            <sys_updated_by>jason.wang</sys_updated_by>
+            <sys_updated_on>2019-03-20 02:46:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

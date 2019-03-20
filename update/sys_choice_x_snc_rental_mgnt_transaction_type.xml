@@ -100,7 +100,7 @@
             <element>type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Down Payment</label>
+            <label>Cash Payment</label>
             <language>en</language>
             <name>x_snc_rental_mgnt_transaction</name>
             <sequence>5</sequence>
@@ -109,9 +109,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>52ed87924f803300fc0877618110c789</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-10 05:35:36</sys_updated_on>
+            <sys_updated_on>2019-03-20 02:21:21</sys_updated_on>
             <value>6</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">

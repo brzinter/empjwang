@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2019-03-12 02:18:58</last_registered_on>
+        <last_registered_on>2019-03-19 23:46:25</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
-        <sys_created_on>2019-03-11 03:34:35</sys_created_on>
-        <sys_id>615cfbea1388330015f750f82244b065</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2019-03-16 22:04:45</sys_created_on>
+        <sys_id>286a25a04f507700fc0877618110c737</sys_id>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>64A30D9537A1FEAA89F20B6D5C14E45CA7457EB5E3CC9DA5C9511ABFBF1A9CCF</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
         <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
-        <sys_update_name>sys_push_notif_app_install_615cfbea1388330015f750f82244b065</sys_update_name>
+        <sys_update_name>sys_push_notif_app_install_286a25a04f507700fc0877618110c737</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-12 02:18:58</sys_updated_on>
+        <sys_updated_on>2019-03-19 23:46:25</sys_updated_on>
         <sys_user_id display_value="Jason Wang">db282ede4f40330080dac0818110c7a1</sys_user_id>
         <token>64A30D9537A1FEAA89F20B6D5C14E45CA7457EB5E3CC9DA5C9511ABFBF1A9CCF</token>
     </sys_push_notif_app_install>

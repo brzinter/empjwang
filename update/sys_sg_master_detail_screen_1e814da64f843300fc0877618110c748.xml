@@ -3,12 +3,12 @@
         <application_roles>x_snc_rental_mgnt.user</application_roles>
         <available_offline>false</available_offline>
         <data_item display_value="My properties">de9f3c664f843300fc0877618110c7ca</data_item>
-        <description/>
+        <description>Full list of properties</description>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
         <icon display_value="file-alt">c28141e64f843300fc0877618110c786</icon>
-        <name>Properties</name>
-        <order>20</order>
+        <name>Properties List</name>
+        <order>10</order>
         <parent>a526d71a4f803300fc0877618110c78b</parent>
         <parent_table>sys_sg_folder</parent_table>
         <roles_override/>
@@ -16,13 +16,13 @@
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-10 13:58:26</sys_created_on>
         <sys_id>1e814da64f843300fc0877618110c748</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Properties</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Properties List</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sys_sg_master_detail_screen_1e814da64f843300fc0877618110c748</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-11 00:35:48</sys_updated_on>
+        <sys_updated_on>2019-03-20 02:33:49</sys_updated_on>
     </sys_sg_master_detail_screen>
 </record_update>

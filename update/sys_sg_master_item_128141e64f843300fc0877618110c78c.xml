@@ -4,7 +4,7 @@
         <condition_order/>
         <item_view display_value="Properties item view">de8141e64f843300fc0877618110c788</item_view>
         <name>Master Item</name>
-        <screen display_value="Properties">1e814da64f843300fc0877618110c748</screen>
+        <screen display_value="Properties List">1e814da64f843300fc0877618110c748</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-10 13:58:26</sys_created_on>

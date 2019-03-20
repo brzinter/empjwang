@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Calculating Property Balance</name>
+        <run_as display_value="Jason Wang">db282ede4f40330080dac0818110c7a1</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 01:00:00</run_period>
+        <run_start>2019-03-11 07:00:00</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[balanceCalculation ();
+
+//update balance for every property
+function balanceCalculation () {
+	
+	var properties = new GlideRecord ("x_snc_rental_mgnt_property");
+	properties.query();
+	while (properties.next()) {
+		var old_value = Number(properties.balance);   //convert object to number type
+		var new_value = transactionCalculate (properties.sys_id);
+		
+		if (new_value != 0) {
+			var updated_value = old_value + new_value;
+			properties.balance = updated_value;
+			properties.update();
+		}
+	}
+}
+
+
+//calculate net new transactions
+function transactionCalculate (property_info) {
+	
+	//initial return is 0
+	var value = 0;
+	
+	var transactions = new GlideRecord("x_snc_rental_mgnt_transaction");
+	transactions.addQuery("property", property_info);
+	transactions.addQuery("calculated", false);
+	transactions.query();
+	while (transactions.next()) {
+		
+		if (transactions.income_or_spend != true) {
+			//it's a spend
+			value = value - transactions.amount;
+		} else {
+			//it's income
+			value = value + transactions.amount;
+		}
+		
+		transactions.calculated = true;
+		transactions.update();
+	}
+	
+	return value;
+	
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-12 04:58:54</sys_created_on>
+        <sys_id>2d43914b4f487300fc0877618110c7e4</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Calculating Property Balance</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sysauto_script_2d43914b4f487300fc0877618110c7e4</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-13 05:22:03</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>
