@@ -18,6 +18,7 @@
         </element>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Tenants" max_length="1024" name="tenants" reference="x_snc_rental_mgnt_renter" type="glide_list"/>
+        <element label="Tenant's Number (Primary)" max_length="40" name="tenant_number" type="phone_number_e164"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Apartment unit" sequence="0" value="Apartment unit"/>

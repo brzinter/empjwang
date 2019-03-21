@@ -4,7 +4,7 @@
         <condition_order/>
         <item_view display_value="Transaction item view">7437979a4f803300fc0877618110c704</item_view>
         <name>Master Item</name>
-        <screen display_value="Property Transaction">4937579a4f803300fc0877618110c734</screen>
+        <screen display_value="Property Transactions">4937579a4f803300fc0877618110c734</screen>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-10 06:13:52</sys_created_on>

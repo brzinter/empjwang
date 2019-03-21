@@ -12,16 +12,16 @@
         <parent_table>sys_sg_master_detail_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
-        <sys_created_on>2019-03-11 01:47:49</sys_created_on>
-        <sys_id>75e363264f0c3300fc0877618110c76b</sys_id>
+        <sys_created_on>2019-03-21 02:25:46</sys_created_on>
+        <sys_id>cf7ccf354f903b00fc0877618110c72c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>New Transaction</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
-        <sys_update_name>sys_sg_button_instance_75e363264f0c3300fc0877618110c76b</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_cf7ccf354f903b00fc0877618110c72c</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-11 01:47:49</sys_updated_on>
+        <sys_updated_on>2019-03-21 02:25:46</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
 </record_update>

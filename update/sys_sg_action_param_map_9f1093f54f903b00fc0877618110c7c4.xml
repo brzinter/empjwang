@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Transaction">57d1eba24f0c3300fc0877618110c791</button>
+        <item_parameter display_value="Date">e56113394f903b00fc0877618110c741</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-03-21 02:47:39</sys_created_on>
+        <sys_id>9f1093f54f903b00fc0877618110c7c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e56113394f903b00fc0877618110c741</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9f1093f54f903b00fc0877618110c7c4</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-03-21 02:47:39</sys_updated_on>
+        <ui_parameter display_value="Date">2b3017f54f903b00fc0877618110c779</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
