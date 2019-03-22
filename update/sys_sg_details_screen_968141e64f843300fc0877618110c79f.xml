@@ -2,7 +2,7 @@
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
         <application_roles>x_snc_rental_mgnt.user</application_roles>
         <available_offline>false</available_offline>
-        <data_item display_value="My properties">de9f3c664f843300fc0877618110c7ca</data_item>
+        <data_item display_value="Properties">de9f3c664f843300fc0877618110c7ca</data_item>
         <description/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>

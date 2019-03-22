@@ -3,21 +3,21 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
-        <name>My properties</name>
+        <name>Properties</name>
         <query_condition/>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-10 13:49:58</sys_created_on>
         <sys_id>de9f3c664f843300fc0877618110c7ca</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>My properties</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sys_sg_data_item_de9f3c664f843300fc0877618110c7ca</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-20 04:08:39</sys_updated_on>
+        <sys_updated_on>2019-03-22 03:17:47</sys_updated_on>
         <table>x_snc_rental_mgnt_property</table>
     </sys_sg_data_item>
 </record_update>

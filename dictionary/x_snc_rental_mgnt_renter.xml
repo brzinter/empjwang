@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="sys_user" label="Renter" max_length="40" name="x_snc_rental_mgnt_renter" type="collection">
-        <element label="Property" max_length="32" name="property" reference="x_snc_rental_mgnt_property" type="reference"/>
+        <element label="Property" mandatory="true" max_length="32" name="property" reference="x_snc_rental_mgnt_property" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Renter state" max_length="40" name="renter_state" type="string">
             <choice>
                 <element inactive_on_update="false" label="Contacted" sequence="1" value="1"/>
