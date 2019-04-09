@@ -13,7 +13,7 @@
         <mandatory>true</mandatory>
         <multi_select>false</multi_select>
         <name>Amount</name>
-        <order>50</order>
+        <order>70</order>
         <parameter_type>button</parameter_type>
         <placeholder/>
         <screen/>
@@ -23,14 +23,14 @@
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-21 02:59:18</sys_created_on>
         <sys_id>9614db794f903b00fc0877618110c74d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Amount</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_9614db794f903b00fc0877618110c74d</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-21 03:02:40</sys_updated_on>
+        <sys_updated_on>2019-03-23 21:31:43</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
 </record_update>

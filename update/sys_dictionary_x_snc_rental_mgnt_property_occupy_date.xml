@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="calculated" table="x_snc_rental_mgnt_transaction">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="occupy_date" table="x_snc_rental_mgnt_property">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Calculated</column_label>
+        <column_label>Occupy date</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,18 +22,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>calculated</element>
+        <element>occupy_date</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">boolean</internal_type>
+        <internal_type display_value="">glide_date</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_rental_mgnt_transaction</name>
+        <name>x_snc_rental_mgnt_property</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -52,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jason.wang</sys_created_by>
-        <sys_created_on>2019-03-12 04:31:51</sys_created_on>
-        <sys_id>8db21d0b4f487300fc0877618110c7b2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Calculated</sys_name>
+        <sys_created_on>2019-04-06 03:02:26</sys_created_on>
+        <sys_id>845ea10f13a0f70015f750f82244b045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Occupy date</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_rental_mgnt_transaction_calculated</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_rental_mgnt_property_occupy_date</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-04-05 15:30:15</sys_updated_on>
+        <sys_updated_on>2019-04-06 03:02:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

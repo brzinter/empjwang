@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Property Renters item view">0facdf3e136cb70015f750f82244b0e3</item_view>
+        <name>Master Item</name>
+        <screen display_value="Property Renters">cbac9b3e136cb70015f750f82244b083</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>jason.wang</sys_created_by>
+        <sys_created_on>2019-04-05 16:26:08</sys_created_on>
+        <sys_id>dfac9f3e136cb70015f750f82244b0fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
+        <sys_update_name>sys_sg_master_item_dfac9f3e136cb70015f750f82244b0fa</sys_update_name>
+        <sys_updated_by>jason.wang</sys_updated_by>
+        <sys_updated_on>2019-04-05 16:26:08</sys_updated_on>
+        <table>x_snc_rental_mgnt_renter</table>
+    </sys_sg_master_item>
+</record_update>

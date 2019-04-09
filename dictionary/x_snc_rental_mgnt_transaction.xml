@@ -27,6 +27,7 @@
                 <element inactive_on_update="false" label="Cash Payment" sequence="5" value="6"/>
                 <element inactive_on_update="false" label="Inspection" sequence="6" value="7"/>
                 <element inactive_on_update="false" label="Fix &amp; Upgrade" sequence="7" value="2"/>
+                <element inactive_on_update="false" label="Application Fee" sequence="8" value="-2"/>
             </choice>
         </element>
         <index name="index">

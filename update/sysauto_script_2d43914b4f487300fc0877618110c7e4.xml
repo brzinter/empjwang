@@ -46,10 +46,10 @@ function transactionCalculate (property_info) {
 		
 		if (transactions.income_or_spend != true) {
 			//it's a spend
-			value = value - transactions.amount;
+			value = Number(value) - Number(transactions.amount);  //convert object to number type
 		} else {
 			//it's income
-			value = value + transactions.amount;
+			value = Number(value) + Number(transactions.amount);  //convert object to number type
 		}
 		
 		transactions.calculated = true;
@@ -63,14 +63,14 @@ function transactionCalculate (property_info) {
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-12 04:58:54</sys_created_on>
         <sys_id>2d43914b4f487300fc0877618110c7e4</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Calculating Property Balance</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sysauto_script_2d43914b4f487300fc0877618110c7e4</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-13 05:22:03</sys_updated_on>
+        <sys_updated_on>2019-04-05 15:25:56</sys_updated_on>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
 </record_update>

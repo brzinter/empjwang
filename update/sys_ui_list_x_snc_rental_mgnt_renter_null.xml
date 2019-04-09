@@ -3,122 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>b0794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>010a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>email</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>34794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>850a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>phone</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <element>mobile_phone</element>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>b4794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>090a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>mobile_phone</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <element>property</element>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>38794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>890a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>property</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <element>renter_state</element>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>b8794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>0d0a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>renter_state</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>3c794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>8d0a1fba136cb70015f750f82244b03b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450a1fba136cb70015f750f82244b03a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>bc794aa94f94f700fc0877618110c775</sys_id>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
+            <sys_id>010a1fba136cb70015f750f82244b03c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="x_snc_rental_mgnt_renter" element="NULL" name="x_snc_rental_mgnt_renter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">78794aa94f94f700fc0877618110c774</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>7</position>
-            <sum>false</sum>
-            <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
-            <sys_id>30794aa94f94f700fc0877618110c776</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -132,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>jason.wang</sys_created_by>
-            <sys_created_on>2019-03-20 02:54:25</sys_created_on>
+            <sys_created_on>2019-04-05 16:14:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>78794aa94f94f700fc0877618110c774</sys_id>
+            <sys_id>450a1fba136cb70015f750f82244b03a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_rental_mgnt_renter</sys_name>
             <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
@@ -143,7 +128,7 @@
             <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_rental_mgnt_renter_null</sys_update_name>
             <sys_updated_by>jason.wang</sys_updated_by>
-            <sys_updated_on>2019-03-20 02:54:25</sys_updated_on>
+            <sys_updated_on>2019-04-05 16:14:31</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

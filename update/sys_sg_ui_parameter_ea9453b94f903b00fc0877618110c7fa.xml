@@ -13,7 +13,7 @@
         <mandatory>true</mandatory>
         <multi_select>false</multi_select>
         <name>Notes</name>
-        <order>70</order>
+        <order>50</order>
         <parameter_type>button</parameter_type>
         <placeholder/>
         <screen/>
@@ -23,14 +23,14 @@
         <sys_created_by>jason.wang</sys_created_by>
         <sys_created_on>2019-03-21 03:01:31</sys_created_on>
         <sys_id>ea9453b94f903b00fc0877618110c7fa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Notes</sys_name>
         <sys_package display_value="Rental Management" source="x_snc_rental_mgnt">868b2a964f403300fc0877618110c7d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rental Management">868b2a964f403300fc0877618110c7d3</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_ea9453b94f903b00fc0877618110c7fa</sys_update_name>
         <sys_updated_by>jason.wang</sys_updated_by>
-        <sys_updated_on>2019-03-21 03:01:31</sys_updated_on>
+        <sys_updated_on>2019-03-23 21:31:55</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
 </record_update>
